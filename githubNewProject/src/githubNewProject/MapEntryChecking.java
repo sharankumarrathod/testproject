@@ -11,7 +11,7 @@ public class MapEntryChecking {
 		StateCapital.put("maharatstra", "mubai");
 		StateCapital.put("kerala", "kochi");
 		StateCapital.put("telagana", "hydrabad");
-		StateCapital.put("telagana", "amravati");
+		StateCapital.put("telagan", "amravati");
 		StateCapital.put("telagana", "secundrabad");
 		
 		System.out.println(StateCapital.keySet()+"    "+StateCapital.values());

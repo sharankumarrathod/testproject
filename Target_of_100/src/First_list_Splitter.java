@@ -10,5 +10,7 @@ public class First_list_Splitter {
 		
 		sout.forEachRemaining(System.out::println);//It is split approximately in half, like this:
 	}
+	
+	//if you want change it now 
 
 }
